@@ -30,3 +30,6 @@ format:
     code-copy: true
     code-overflow: wrap
     highlight-style: github
+    include-in-header: 
+      text: |
+        <script defer src="https://cloud.umami.is/script.js" data-website-id="7626416a-d306-4918-8dfe-c21cd871a2f1"></script>
