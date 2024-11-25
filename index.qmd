@@ -1,0 +1,66 @@
+---
+title: "Welcome to My Research Page"
+---
+
+## Research Focus
+
+I am a researcher at Jagiellonian University, specializing in deep learning with a focus on:
+
+* Tabular Deep Learning
+* AI for Metagenomics
+
+## Current Grants
+
+### Principal Investigator
+- **Pearls of Science Grant**  
+  *"Sieci prototypowe jako krok do interpretowalnej analizy funkcji białek"*  
+  Leading research on prototype networks for interpretable protein function analysis.
+
+### Research Team Member
+- **Sonata Bis Grant**  
+  *"Rozszerzona charakteryzacja mikrobiomu z wykorzystaniem synergii wewnętrznych społeczności mikrobiomowej dla lepszego zrozumienia Ekspozomu"*  
+  Contributing to advanced microbiome characterization research.
+
+## Selected Publications
+
+### Recent Work
+- **Machine unlearning for recommendation systems: An insight** (2024)  
+  *International Conference On Innovative Computing And Communication*  
+  Research on machine unlearning techniques in recommendation systems.
+
+- **Gut microbiome dynamics and predictive value in hospitalized COVID-19 patients** (2024)  
+  *Frontiers in Microbiology*  
+  Analysis of microbiome data using shallow and deep shotgun sequencing.
+
+- **HyperTab: Hypernetwork Approach for Deep Learning on Small Tabular Datasets** (2023) 
+  *IEEE International Conference on Data Science and Advanced Analytics*  
+  Novel approach for handling small tabular datasets using hypernetworks.
+
+### Most Used Work
+- **NL-Augmenter: A Framework for Task-Sensitive Natural Language Augmentation** (2021)  
+  *Northern European Journal of Language Technology*  
+  Framework for natural language augmentation
+
+- **Contention Window Optimization in IEEE 802.11 ax Networks with Deep Reinforcement Learning** (2020)  
+  *IEEE Wireless Communications and Networking Conference*  
+  Application of deep reinforcement learning to wireless networks
+
+## Research Interests
+
+- Deep Learning for Tabular Data
+- Machine Learning Applications
+- Wireless Networks Optimization
+- Natural Language Processing (specifically Information Retrieval)
+- Bioinformatics and Microbiome Analysis
+
+### Collaborations
+
+I actively collaborate with researchers from:
+- AGH University of Krakow
+- Jagiellonian University
+- Małopolska Centre of Biotechnology
+
+[View my complete publication list](https://scholar.google.com/citations?user=PiTUa6kAAAAJ&hl=pl)
+
+## Since you are already here
+Why not check out my [Gaius-Lex](https://gaius-lex.com) project?

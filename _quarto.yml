@@ -1,0 +1,30 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Witold Wydmański website"
+  navbar:
+    background: primary
+    search: true
+    left:
+      - href: index.qmd
+        text: Home
+      - href: teaching.qmd
+        text: Teaching
+    right:
+      - icon: github
+        href: https://github.com/wwydmanski
+
+format:
+  html:
+    theme: flatly
+    css: styles.css
+    toc: true
+    toc-location: right
+    page-layout: full
+    fontsize: 1.1em
+    linestretch: 1.7
+    code-copy: true
+    code-overflow: wrap
+    highlight-style: github
