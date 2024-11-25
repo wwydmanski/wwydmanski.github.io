@@ -4,7 +4,7 @@ title: "Research Profile"
 
 ## Research Focus
 
-I am a researcher at Jagiellonian University, specializing in deep learning with a focus on:
+I am a researcher at [Małopolska Centre of Biotechnology](https://mbc.uj.edu.pl/), specializing in deep learning with a focus on:
 
 * Tabular Deep Learning
 * AI for Metagenomics
@@ -58,9 +58,11 @@ I'm doing my PhD at the [GMUM](https://gmum.net/) lab.
 ### Collaborations
 
 I actively collaborate with researchers from:
-* AGH University of Krakow
+
 * Jagiellonian University
 * Małopolska Centre of Biotechnology
+* [SANO Science](https://sano.science/)
+* AGH University of Krakow
 
 [View my complete publication list](https://scholar.google.com/citations?user=PiTUa6kAAAAJ&hl=pl)
 
