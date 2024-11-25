@@ -15,8 +15,6 @@ website:
     right:
       - icon: github
         href: https://github.com/wwydmanski
-      - icon: google-scholar
-        href: https://scholar.google.com/citations?user=PiTUa6kAAAAJ&hl=pl
       - icon: twitter
         href: https://bsky.app/profile/wwydmanski.bsky.social
 
