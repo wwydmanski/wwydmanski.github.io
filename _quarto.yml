@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Witold Wydmański website"
+  title: "Witold Wydmański"
   navbar:
     background: primary
     search: true
@@ -15,6 +15,10 @@ website:
     right:
       - icon: github
         href: https://github.com/wwydmanski
+      - icon: google-scholar
+        href: https://scholar.google.com/citations?user=PiTUa6kAAAAJ&hl=pl
+      - icon: twitter
+        href: https://bsky.app/profile/wwydmanski.bsky.social
 
 format:
   html:
