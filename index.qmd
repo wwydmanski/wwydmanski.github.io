@@ -58,9 +58,9 @@ I'm doing my PhD at the [GMUM](https://gmum.net/) lab.
 ### Collaborations
 
 I actively collaborate with researchers from:
-- AGH University of Krakow
-- Jagiellonian University
-- Małopolska Centre of Biotechnology
+* AGH University of Krakow
+* Jagiellonian University
+* Małopolska Centre of Biotechnology
 
 [View my complete publication list](https://scholar.google.com/citations?user=PiTUa6kAAAAJ&hl=pl)
 
