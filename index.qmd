@@ -1,5 +1,5 @@
 ---
-title: "Welcome to My Research Page"
+title: "Research Profile"
 ---
 
 ## Research Focus
@@ -8,6 +8,8 @@ I am a researcher at Jagiellonian University, specializing in deep learning with
 
 * Tabular Deep Learning
 * AI for Metagenomics
+
+I'm doing my PhD at the [GMUM](https://gmum.net/) lab.
 
 ## Current Grants
 

@@ -2,30 +2,44 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Welcome to My Research Page",
+    "title": "Research Profile",
     "section": "",
-    "text": "I am a researcher at Jagiellonian University, specializing in deep learning with a focus on:\n\nTabular Deep Learning\nAI for Metagenomics"
+    "text": "I am a researcher at Jagiellonian University, specializing in deep learning with a focus on:\n\nTabular Deep Learning\nAI for Metagenomics\n\nI’m doing my PhD at the GMUM lab."
   },
   {
     "objectID": "index.html#research-focus",
     "href": "index.html#research-focus",
-    "title": "Welcome to My Research Page",
+    "title": "Research Profile",
     "section": "",
-    "text": "I am a researcher at Jagiellonian University, specializing in deep learning with a focus on:\n\nTabular Deep Learning\nAI for Metagenomics"
+    "text": "I am a researcher at Jagiellonian University, specializing in deep learning with a focus on:\n\nTabular Deep Learning\nAI for Metagenomics\n\nI’m doing my PhD at the GMUM lab."
+  },
+  {
+    "objectID": "index.html#current-grants",
+    "href": "index.html#current-grants",
+    "title": "Research Profile",
+    "section": "Current Grants",
+    "text": "Current Grants\n\nPrincipal Investigator\n\nPearls of Science Grant\n“Sieci prototypowe jako krok do interpretowalnej analizy funkcji białek”\nLeading research on prototype networks for interpretable protein function analysis.\n\n\n\nResearch Team Member\n\nSonata Bis Grant\n“Rozszerzona charakteryzacja mikrobiomu z wykorzystaniem synergii wewnętrznych społeczności mikrobiomowej dla lepszego zrozumienia Ekspozomu”\nContributing to advanced microbiome characterization research."
   },
   {
     "objectID": "index.html#selected-publications",
     "href": "index.html#selected-publications",
-    "title": "Welcome to My Research Page",
+    "title": "Research Profile",
     "section": "Selected Publications",
     "text": "Selected Publications\n\nRecent Work\n\nMachine unlearning for recommendation systems: An insight (2024)\nInternational Conference On Innovative Computing And Communication\nResearch on machine unlearning techniques in recommendation systems.\nGut microbiome dynamics and predictive value in hospitalized COVID-19 patients (2024)\nFrontiers in Microbiology\nAnalysis of microbiome data using shallow and deep shotgun sequencing.\nHyperTab: Hypernetwork Approach for Deep Learning on Small Tabular Datasets (2023) IEEE International Conference on Data Science and Advanced Analytics\nNovel approach for handling small tabular datasets using hypernetworks.\n\n\n\nMost Used Work\n\nNL-Augmenter: A Framework for Task-Sensitive Natural Language Augmentation (2021)\nNorthern European Journal of Language Technology\nFramework for natural language augmentation\nContention Window Optimization in IEEE 802.11 ax Networks with Deep Reinforcement Learning (2020)\nIEEE Wireless Communications and Networking Conference\nApplication of deep reinforcement learning to wireless networks"
   },
   {
     "objectID": "index.html#research-interests",
     "href": "index.html#research-interests",
-    "title": "Welcome to My Research Page",
+    "title": "Research Profile",
     "section": "Research Interests",
     "text": "Research Interests\n\nDeep Learning for Tabular Data\nMachine Learning Applications\nWireless Networks Optimization\nNatural Language Processing (specifically Information Retrieval)\nBioinformatics and Microbiome Analysis\n\n\nCollaborations\nI actively collaborate with researchers from: - AGH University of Krakow - Jagiellonian University - Małopolska Centre of Biotechnology\nView my complete publication list"
+  },
+  {
+    "objectID": "index.html#since-you-are-already-here",
+    "href": "index.html#since-you-are-already-here",
+    "title": "Research Profile",
+    "section": "Since you are already here",
+    "text": "Since you are already here\nWhy not check out my Gaius-Lex project?"
   },
   {
     "objectID": "teaching.html",
@@ -40,19 +54,5 @@
     "title": "Teaching",
     "section": "",
     "text": "I’m currently teaching laboratory sessions for Effective Python course at Jagiellonian University.\n\n\n\n\n\n\nNote\n\n\n\nCourse grades are available here"
-  },
-  {
-    "objectID": "index.html#current-grants",
-    "href": "index.html#current-grants",
-    "title": "Welcome to My Research Page",
-    "section": "Current Grants",
-    "text": "Current Grants\n\nPrincipal Investigator\n\nPearls of Science Grant\n“Sieci prototypowe jako krok do interpretowalnej analizy funkcji białek”\nLeading research on prototype networks for interpretable protein function analysis.\n\n\n\nResearch Team Member\n\nSonata Bis Grant\n“Rozszerzona charakteryzacja mikrobiomu z wykorzystaniem synergii wewnętrznych społeczności mikrobiomowej dla lepszego zrozumienia Ekspozomu”\nContributing to advanced microbiome characterization research."
-  },
-  {
-    "objectID": "index.html#since-you-are-already-here",
-    "href": "index.html#since-you-are-already-here",
-    "title": "Welcome to My Research Page",
-    "section": "Since you are already here",
-    "text": "Since you are already here\nWhy not check out my Gaius-Lex project?"
   }
 ]
