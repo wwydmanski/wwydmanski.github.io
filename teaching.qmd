@@ -4,10 +4,4 @@ title: "Teaching"
 
 ## Current Courses
 
-### Effective Python (2024/2025)
-
-I'm currently teaching laboratory sessions for Effective Python course at Jagiellonian University.
-
-:::{.callout-note}
-[Course grades are available here](https://ujchmura-my.sharepoint.com/:x:/g/personal/witold_wydmanski_uj_edu_pl/EWHq7IotPWdIvDkA9hin7uABLQjxuBSPWDMw3pVTXw6FfA?e=cOGAry)
-::: 
+I'm not currently teaching
