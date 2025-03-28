@@ -26,9 +26,9 @@ I'm doing my PhD at the [GMUM](https://gmum.net/) lab.
 ## Selected Publications
 
 ### Recent Work
-- **Machine unlearning for recommendation systems: An insight** (2024)  
-  *International Conference On Innovative Computing And Communication*  
-  Research on machine unlearning techniques in recommendation systems.
+- **VisTabNet: Adapting Vision Transformers for Tabular Data** (2025)  
+  *SIAM International Conference on Data Mining (SDM25)*  
+  Research on cross-modal transfer learning.
 
 - **Gut microbiome dynamics and predictive value in hospitalized COVID-19 patients** (2024)  
   *Frontiers in Microbiology*  
