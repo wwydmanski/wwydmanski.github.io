@@ -43,7 +43,7 @@ I'm doing my PhD at the [GMUM](https://gmum.net/) lab.
   *Northern European Journal of Language Technology*  
   Framework for natural language augmentation
 
-- **Contention Window Optimization in IEEE 802.11 ax Networks with Deep Reinforcement Learning** (2020)  
+- [**Contention Window Optimization in IEEE 802.11 ax Networks with Deep Reinforcement Learning** (2020)](https://github.com/wwydmanski/RLinWiFi)  
   *IEEE Wireless Communications and Networking Conference*  
   Application of deep reinforcement learning to wireless networks
 
